@@ -1,0 +1,148 @@
+{
+	"tasks": [
+		{
+			"id": "t_001",
+			"title": "Complete your Next Of Kin Paperwork",
+			"status": "in_progress",
+			"category": "take_care_of_loved_one",
+			"priority": 2000,
+			"cta_text": "Start Now",
+			"do_when": "Do Now",
+			"estimated_time": "30 min",
+			"short_description": "Please complete paperwork required before we can assist",
+			"long_description": "<p>This paperwork gives us all the information we need to assist you, and bring your loved one into our care.</p><p>These documents can take some time to complete, so make sure you have around half an hour to complete them.</p><p>It's vital that you complete this paperwork as soon as possible.</p>"
+		},
+		{
+			"id": "t_002",
+			"title": "Certify death certificate",
+			"status": "todo",
+			"category": "manage_the_estate",
+			"priority": 12000,
+			"cta_text": "Learn more",
+			"do_when": "Do Soon",
+			"estimated_time": "20 min",
+			"short_description": "Get certified death certificate copies for proof of death",
+			"long_description": "<p>A death certificate is an official record of someone's passing and is required for important tasks such as managing finances, filing insurance claims, settling the estate, and closing or transferring accounts. Many institutions will ask for certified copies of this as proof of death.</p><p>Once you have the original death certificate, you can make photocopies and have them certified at most police stations, or with a local Justice of the Peace. Make sure to bring the original document, as it will be needed for verification.</p><p>Other authorised persons who may certify copies include:</p><ul class=\"list-disc pl-5\"><li> Health professionals (GPs, nurses, dentists, and pharmacists)</li><li> Legal professionals and accountants </li><li> Public servants and bank officers with at least five years of service</li><li> Ministers of religion, celebrants, notaries, and teachers</li></ul><p>You may refer to <a class=\"underline font-bold\" href=\"https://example.com/booking-guide\" target=\"_blank\">this website</a> for details on certifying the death certificate.</p><p>We recommend having several certified copies of the death certificate prepared since institutions often keep the ones you provide. It's also important to secure the original so you can get more copies if needed.</p>"
+		},
+		{
+			"id": "t_003",
+			"title": "Cancel driver's license",
+			"status": "todo",
+			"category": "inform_government_departments",
+			"priority": 39000,
+			"cta_text": "Learn more",
+			"do_when": "Do Later",
+			"estimated_time": "20 min",
+			"short_description": "Cancel your loved one's driver's license",
+			"long_description": "<p>As the authorised representative of the estate, you will need to cancel the deceased's driver's licence to prevent any potential misuse. While the NSW Registry of Births, Deaths, and Marriages will eventually inform Transport for NSW of the death, this process may take some time.</p><p>To expedite the cancellation, you can directly notify Transport for NSW by visiting a <a class=\"underline font-bold\" href=\"https://www.service.nsw.gov.au/service-centre\" target=\"_blank\">Service NSW Centre</a> with one of the following documents:</p><ul class=\"list-disc pl-5\"><li>Death certificate</li><li>Newspaper death notice</li><li>Letter from a solicitor or the NSW Trustee and Guardian advising that the person is deceased</li><li>Completed <a class=\"underline font-bold\" href=\"https://tfnswforms.transport.nsw.gov.au/45071665-advice-of-death.pdf\" target=\"_blank\">Advice of Death form</a> with <a class=\"underline font-bold\" href=\"https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity\" target=\"_blank\">proof of identity</a> of the deceased</li></ul><p>You can also hand in the driver's licence at the service centre along with a completed form.</p>"
+		},
+		{
+			"id": "t_004",
+			"title": "Notify the ATO",
+			"status": "todo",
+			"category": "inform_government_departments",
+			"priority": 37000,
+			"cta_text": "Learn more",
+			"do_when": "Do Later",
+			"estimated_time": "15 min",
+			"short_description": "Let the ATO know your loved one has passed.",
+			"long_description": "<p>If your loved one had a Tax File Number (TFN) and any tax obligations, like filing returns or receiving income, you will need to inform the Australian Taxation Office of their death. This will ensure their tax matters are properly managed and prevent any future correspondence.</p><p>You can notify the ATO by completing the <a class=\"underline font-bold\" href=\"https://identityservice.auspost.com.au/atoforms/nodp/landing\" target=\"_blank\">Notification of a Deceased Person form</a> online. After submitting, print the summary and bring it, along with the death certificate, proof of identity, and probate or administration documents (if applicable), to your interview at an Australia Post outlet within 30 days. These documents should be original or certified copies. Alternatively, you can <a class=\"underline font-bold\" href=\"https://www.ato.gov.au/forms-and-instructions/deceased-estates-notify-us-of-a-death-paper-form\" target=\"_blank\">complete a paper form </a>and post it with certified copies of the required documents.</p><p>After notifying the ATO, you may need to lodge a final tax return for the period from 1 July of the income year until the date of death. It's essential to finalise all tax obligations before the estate's assets are distributed.</p><p>If you are unsure about any steps or if you do not have the required documents yet, it's best to <a class=\"underline font-bold\" href=\"https://www.ato.gov.au/about-ato/contact-us\" target=\"_blank\">speak with an ATO representative</a> directly for guidance.</p>"
+		},
+		{
+			"id": "t_005",
+			"title": "Handle utilities",
+			"status": "completed",
+			"category": "manage_the_estate",
+			"priority": 30000,
+			"cta_text": "Learn more",
+			"do_when": "Do Soon",
+			"estimated_time": "20 min",
+			"short_description": "Cancel utilities or transfer them to a new name",
+			"long_description": "<p>When an account holder passes away, it's important to notify utility providers, like water, electricity, and gas, as soon as possible. You will typically need to provide a copy of the death certificate, your proof of identity, the grant of probate, and the account details. You can either close the account or transfer the account into someone else's name.</p><p>The <a class=\"underline font-bold\" href=\"https://deathnotification.gov.au/\" target=\"_blank\">Australian Death Notification Service</a> lets you notify several providers at once, and you will be contacted directly by each one if they need anything else. If you want the bill transferred you will need to be in contact with that provider. Note this does not cover all major Australian billers.</p><p><b>Get BillWill to cancel or transfer utilities for you</b></p><p>Alternatively, you can use BillWill to undertake this process for you, while also transfering or closing telco, insurance and other bills and subscriptions at the same time. BillWill will assist with most billers that you choose. Click here to learn more.</p><p>Any outstanding balances will typically be managed by the executor or administrator, but this may vary depending on the provider's policies and whether the account remains active.</p>"
+		},
+		{
+			"id": "t_006",
+			"title": "Setup tributes page",
+			"status": "todo",
+			"category": "honour_and_remember_loved_one",
+			"priority": 17000,
+			"cta_text": "Get Started",
+			"do_when": "Do Later",
+			"estimated_time": "5 min",
+			"short_description": "Set up a page to gather photos, messages, or memorial RSVPs",
+			"long_description": "<p>We can help you create a page for you to celebrate the life of your loved one with a beautiful, dedicated memorial page.</p><p>This page can include a biography of your loved one, and you can create a detailed description of the life they lived.</p><p>Visitors to the page can leave a message of condolence, add their own memories of your loved one, and even RSVP to your memorial or funeral, if you have one.</p>"
+		},
+		{
+			"id": "t_007",
+			"title": "Review & Sign Documents",
+			"status": "todo",
+			"category": "take_care_of_loved_one",
+			"priority": 2200,
+			"cta_text": "Review",
+			"do_when": "Do Now",
+			"estimated_time": "10 min",
+			"short_description": "We have generated documents using your answers for you to review",
+			"long_description": "<p>Thank you for providing us with all of the information we needed. We have now used that information to generate a number of documents required by law.</p><p>Once you have reviewed these documents, please sign to confirm that you are happy for us to apply your signature across each document, so that we can proceed to next steps.</p>"
+		},
+		{
+			"id": "t_008",
+			"title": "Book Free Legal Call",
+			"status": "todo",
+			"category": "manage_the_estate",
+			"priority": 41000,
+			"cta_text": "Schedule call",
+			"do_when": "Do Now",
+			"estimated_time": "2 min",
+			"short_description": "Book a 15 minutes with a lawyer to learn about Estate Admin.",
+			"long_description": "<p>Book a free 15 minute call with a lawyer to learn more about the Estate Admin process.</p>"
+		},
+		{
+			"id": "t_009",
+			"title": "Notify the AEC",
+			"status": "todo",
+			"category": "inform_government_departments",
+			"priority": 38000,
+			"cta_text": "Learn more",
+			"do_when": "Do Later",
+			"estimated_time": "5 min",
+			"short_description": "Remove your loved one from the electoral roll.",
+			"long_description": "<p>To keep your loved one's voting records up to date, you can directly notify the Australian Electoral Commission (AEC) of their passing. Although the Births, Deaths, and Marriages registries periodically update the AEC on deaths, notifying them directly can help prevent any delays.</p><p>You can request the deceased's name be removed from the electoral roll online by completing the \"Notification of a Relative Who Has Died\" form <a class=\"underline font-bold\" href=\"https://formupload.aec.gov.au/Form?FormId=Notificationdeath\" target=\"_blank\">here</a>.</p>"
+		},
+		{
+			"id": "t_010",
+			"title": "Handle phone bill",
+			"status": "todo",
+			"category": "manage_the_estate",
+			"priority": 31000,
+			"cta_text": "Learn more",
+			"do_when": "Do Soon",
+			"estimated_time": "10 min",
+			"short_description": "Cancel the phone bill or transfer it to a new name",
+			"long_description": "<p>To prevent ongoing charges, it's important to cancel or transfer your loved one's mobile phone account. You will need to notify the service provider by phone, their website or using the <a class=\"underline font-bold\" href=\"https://deathnotification.gov.au/\" target=\"_blank\">Australian Death Notification Service (ADNS)</a>. You may be required to complete a form and provide documents like a death certificate and proof of authority, such as a Grant of Probate.</p><p>If you've already used the ADNS, the provider will typically contact you within 10 business days to start the process. If you would prefer to start immediately, you can use the following links for the most common service providers:</p><ul class=\"list-disc pl-5\"><li><a class=\"underline font-bold\" href=\"https://www.telstra.com.au/aboutus/support-in-times-of-need/bereavement-support\" target=\"_blank\">Telstra</a></li><li><a class=\"underline font-bold\" href=\"https://www.optus.com.au/for-you/support/answer?id=1580\" target=\"_blank\">Optus</a></li><li><a class=\"underline font-bold\" href=\"https://www.vodafone.com.au/support/notify/bereavement\" target=\"_blank\">Vodafone</a></li><li><a class=\"underline font-bold\" href=\"https://support.tpg.com.au/managing-account-following-bereavement\" target=\"_blank\">TPG</a></li></ul><p><b>Get BillWill to cancel or transfer the phone bill for you</b></p><p>Alternatively, you can use BillWill to undertake this process for you, while also transfering or closing utilities, insurance and other bills and subscriptions. Click here to learn more.</p>"
+		},
+		{
+			"id": "t_011",
+			"title": "Identify accounts",
+			"status": "todo",
+			"category": "manage_the_estate",
+			"priority": 28000,
+			"cta_text": "Learn more",
+			"do_when": "Do Later",
+			"estimated_time": "15 min",
+			"short_description": "List your loved one's subscriptions, utilities, & accounts",
+			"long_description": "<p>When handling a deceased person's affairs, it's important to identify their online subscriptions, utilities, and accounts to avoid unnecessary charges or transfer them as needed. Creating a list of these accounts helps you stay organised and manage them effectively over time.</p><p>Some of the common utilities and subscriptions to check:</p><ul class=\"list-disc pl-5\"><li><b>Utilities and Phone:</b> Services like electricity, gas, internet, and phone plans</li><li><b>Insurance:</b> including health insurance, home & contents, car</li><li><b>Paid Subscriptions:</b> Netflix, Stan, Foxtel, Binge, and Spotify</li><li><b>Social Media Accounts:</b> Facebook, Instagram, Twitter/X, and LinkedIn</li><li><b>Gym Memberships:</b> Fitness First, Anytime Fitness, or F45 Training</li><li><b>Newspaper or Magazine Subscriptions:</b> The Australian, The Sydney Morning Herald, or Australian Women's Weekly.</li></ul><p><b>Get BillWill to cancel or transfer accounts for you</b></p><p>For a more comprehensive service that simplifies the closure and transfer of bills and subscriptions in one place, click here to learn about our partners at BillWill.</p>"
+		},
+		{
+			"id": "t_012",
+			"title": "Notify Employers",
+			"status": "todo",
+			"category": "take_care_of_loved_one",
+			"priority": 27500,
+			"cta_text": "Learn more",
+			"do_when": "Do Soon",
+			"estimated_time": "10 min",
+			"short_description": "Notify your loved one's employers",
+			"long_description": "<p>It's important to notify your loved one's employers. Some may require you to send them a written letter with the Death Certificate enclosed - make sure to send them certified copies of the Death Certificate, not the original.</p><p><b>Our aftercare team offers a free service to notify employers if needed. <a class=\"underline font-bold\" href=\"#\" target=\"_blank\">Complete this form so we know how to best support you.</a></b></p>"
+		}
+	]
+}

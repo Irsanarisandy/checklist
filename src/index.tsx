@@ -8,7 +8,7 @@ import "./style.css";
 export function App() {
 	return (
 		<LocationProvider>
-			<main>
+			<main class="m-4 flex justify-center md:m-8">
 				<Router>
 					<Route path="/" component={Home} />
 					<Route default component={NotFound} />
