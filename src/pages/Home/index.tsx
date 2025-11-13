@@ -2,6 +2,7 @@ import { useEffect, useState } from "preact/hooks";
 
 import mockTasks from "../../assets/mock_tasks.json";
 import TaskAccordion from "../../components/TaskAccordion";
+import TaskCompletion from "../../components/TaskCompletion";
 import TaskOffcanvas from "../../components/TaskOffcanvas";
 import { Task } from "../../types";
 
@@ -45,6 +46,7 @@ export function Home() {
 					We've curated activities to help along the end-of-life journey. These will update as your
 					journey progresses.
 				</p>
+				<TaskCompletion amount={completedTasks.length} total={mockTasks.tasks.length} />
 				<div class="hs-accordion-group mt-6 grid w-full gap-5" data-hs-accordion-always-open>
 					<TaskAccordion label="Your Tasks" tasks={todoTasks} onClick={selectTask} />
 					<TaskAccordion label="Completed" tasks={completedTasks} completed onClick={selectTask} />
